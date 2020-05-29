@@ -1,4 +1,4 @@
-#vueShop_Server
+# vueShop_Server
 
 ### 介绍
 
@@ -19,7 +19,9 @@ learnVue_shop 配套的服务器 API 项目
 后端接口地址：[https://www.liulongbin.top:8888/api/private/v1/](https://www.liulongbin.top:8888/api/private/v1/)
 
 <br/>
+
 API 接口文档：已部署至本项目根节点
+
 <br/>
 
 全套课程下载：链接：[https://pan.baidu.com/s/1\_-Ve1ceCsvPuXDtieeyVEA](https://pan.baidu.com/s/1_-Ve1ceCsvPuXDtieeyVEA) ，提取码是 q8ln
@@ -27,6 +29,22 @@ API 接口文档：已部署至本项目根节点
 <br/>
 
 \_注：本后端服务器已设置必须带有 token 才能正常发送和接收请求。请注意请求头参数
+
+#### 项目环境
+
+##### 本地环境
+
+​ Node.js + Express + MySQL
+
+##### 创建数据库
+
+​ 数据库文件在：db -> mysdb.sql
+
+​ 创建数据库 mydb，可通过新建查询执行 mysdb.sql 下的 SQL 语句建立数据库，数据库表
+
+​ 数据库连接名：root 密码： 123456
+
+​ 可在 config -> default.json 修改
 
 ### 鸣谢
 
@@ -74,19 +92,3 @@ node ./app.js
 - `services` 服务层，业务逻辑代码在这一层编写，通过不同的接口获取的数据转换成统一的前端所需要的数据
 - `app.js` 主项目入口文件
 - `package.json` 项目配置文件
-
-#### 项目环境
-
-##### 本地环境
-
-​ Node.js + Express + MySQL
-
-##### 创建数据库
-
-​ 数据库文件在：db -> mysdb.sql
-
-​ 创建数据库 mydb，可通过新建查询执行 mysdb.sql 下的 SQL 语句建立数据库，数据库表
-
-​ 数据库连接名：root 密码： 123456
-
-​ 可在 config -> default.json 修改
