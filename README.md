@@ -16,6 +16,7 @@ learnVue_shop 配套的服务器 API 项目
 
 黑马前端官方课程地址：
 前端项目地址：[http://shop.liulongbin.top/](http://shop.liulongbin.top/)
+<br/>
 后端接口地址：[https://www.liulongbin.top:8888/api/private/v1/](https://www.liulongbin.top:8888/api/private/v1/)
 
 <br/>
@@ -30,19 +31,19 @@ API 接口文档：已部署至本项目根节点
 
 \_注：本后端服务器已设置必须带有 token 才能正常发送和接收请求。请注意请求头参数
 
-#### 项目环境
+### 项目环境
 
-##### 本地环境
+- 本地环境
 
 ​ Node.js + Express + MySQL
 
-##### 创建数据库
+- 创建数据库
 
 ​ 数据库文件在：db -> mysdb.sql
 
 ​ 创建数据库 mydb，可通过新建查询执行 mysdb.sql 下的 SQL 语句建立数据库，数据库表
 
-​ 数据库连接名：root 密码： 123456
+**​ 数据库连接名：root 密码： 123456**
 
 ​ 可在 config -> default.json 修改
 
