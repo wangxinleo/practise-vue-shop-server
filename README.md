@@ -8,7 +8,7 @@ learnVue_shop 配套的服务器 API 项目
 
 > 在食用本项目前，推荐先学习 node.js 和 express 框架，这两个东西很简单，一个下午随便找些文档和视频看就可以入门。**切勿急功近利**
 
-**前端 web 项目索引：[2019 黑马前端 element 课程学习的代码项目。 附全套学习资源和 vscode 配置](https://github.com/wangxinleo/learnVue_shop.git)**
+**前端 web 项目索引：[关于 element 的初级学习代码项目。 附全套学习资源和 vscode 配置](https://github.com/wangxinleo/learnVue_shop.git)**
 
 黑马前端官方课程地址：
 前端项目地址：[http://shop.liulongbin.top/](http://shop.liulongbin.top/)
@@ -17,7 +17,7 @@ learnVue_shop 配套的服务器 API 项目
 
 API 接口文档：已部署至本项目根节点
 
-全套课程下载：链接：[https://pan.baidu.com/s/1\_-Ve1ceCsvPuXDtieeyVEA](https://pan.baidu.com/s/1_-Ve1ceCsvPuXDtieeyVEA) ，提取码是 q8ln
+全套课程下载：链接：[https://pan.baidu.com/s/1hBwZLR-Wbjt28YSEzVi6AQ](https://pan.baidu.com/s/1hBwZLR-Wbjt28YSEzVi6AQ) ，提取码是 2urn
 
 \_注：本后端服务器已设置必须带有 token 才能正常发送和接收请求。请注意请求头参数
 
